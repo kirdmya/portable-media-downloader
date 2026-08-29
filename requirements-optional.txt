@@ -1,0 +1,2 @@
+# Нужен только если YouTube продолжает требовать PO Token
+yt-dlp-getpot-wpc

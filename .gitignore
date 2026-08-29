@@ -1,0 +1,44 @@
+# Portable runtime
+runtime/python/*
+!runtime/python/.gitkeep
+
+# Portable tools
+tools/deno/*
+!tools/deno/.gitkeep
+
+tools/ffmpeg/*
+!tools/ffmpeg/.gitkeep
+
+# Downloads
+downloads/*
+!downloads/.gitkeep
+
+# Application data
+data/*
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+*.temp
